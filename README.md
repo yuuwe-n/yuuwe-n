@@ -1,7 +1,9 @@
 # info
 
 most active projects are pinned
+
 most development will be suited towards OpenBSD
+
 most deployment will be suited towards lower end hardware
 
 [dotfiles]
