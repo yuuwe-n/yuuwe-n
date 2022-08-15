@@ -6,7 +6,7 @@
 
 - most deployment will be suited towards lower end hardware
 
-[dotfiles]
+[dotfiles](https://github.com/yuuwe-n/dotfiles)
 
 <!--
 **yuuwe-n/yuuwe-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
