@@ -1,4 +1,10 @@
-### Hi there 👋
+# info
+
+most active projects are pinned
+most development will be suited towards OpenBSD
+most deployment will be suited towards lower end hardware
+
+[dotfiles]
 
 <!--
 **yuuwe-n/yuuwe-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
