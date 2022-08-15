@@ -1,4 +1,4 @@
-# info
+# readme
 
 - most active projects are pinned
 
@@ -6,7 +6,7 @@
 
 - most deployment will be suited towards lower end hardware
 
-[dotfiles](https://github.com/yuuwe-n/dotfiles)
+dotfiles: [dotfiles](https://github.com/yuuwe-n/dotfiles)
 
 <!--
 **yuuwe-n/yuuwe-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
