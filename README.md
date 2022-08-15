@@ -1,10 +1,4 @@
-# readme
-
-- most active projects are pinned
-
-- most development will be suited towards OpenBSD
-
-- most deployment will be suited towards lower end hardware
+most active projects are pinned
 
 __dotfiles__: [dotfiles](https://github.com/yuuwe-n/dotfiles)
 
